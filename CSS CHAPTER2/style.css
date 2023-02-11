@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+BODY{
+    background-color: rgb(0, 255, 136);
+    background-image:url("indexcss.png");
+    background-repeat:repeat-x;
+    /* BACKGROUND SPACE IS USED TO DISTURBUTE THE IMAGE IN SAME SQUENCE */
+}
+.red{
+    background-color: bisque;
+    color: white;
+    /* background-image:url("indexcss.png"); */
+    /* background-repeat: no-repeat; */
+/* FOR THE BACKGROUNDED THE IMAGE WE GO CHORME SAVE IMAGE AS SAVE IN FOLDER WHERE WE WORKING */
+}
+.green{
+    background-color: blueviolet;
+    color: beige;
+    height: 00px;
+}
